@@ -1,5 +1,7 @@
 # hotelbookingwebsite
 
+access the READ.ME file from the code fir proer instructions 
+
 Features
 
 User and Admin Login Authentication**: Secure login system for both guests and administrators.
