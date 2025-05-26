@@ -2,7 +2,7 @@
 
 Access the READ.ME file from the code fir proer instructions 
 
-Features
+# Features
 
 User and Admin Login Authentication**: Secure login system for both guests and administrators.
 Room Check-in: Guests can register and check-in to available rooms via a user-friendly registration form.
