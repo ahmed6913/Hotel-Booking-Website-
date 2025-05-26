@@ -12,7 +12,8 @@ Check-in/Check-out Management: Easily track customer check-ins and check-outs.
 Room Booking Status: View and manage the status of booked and unbooked rooms.
 Room Maintenance: Hotel managers can update the maintenance status of rooms.
 Contact and Feedback Section: Guests can reach out to the hotel management or provide feedback through a dedicated contact interface.
-Technologies Used
+
+# Technologies Used
 
 HTML : For structuring the web pages.
 CSS : For styling the user interface and enhancing the visual appeal.
