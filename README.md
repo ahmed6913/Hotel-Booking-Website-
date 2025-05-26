@@ -1,6 +1,6 @@
 # Hotelbookingwebsite
 
-Access the READ.ME file from the code fir proer instructions 
+Access the READ.ME file 
 
 # Features
 
