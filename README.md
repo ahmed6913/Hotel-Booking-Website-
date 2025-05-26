@@ -1,4 +1,4 @@
-# hotelbookingwebsite
+# Hotelbookingwebsite
 
 Access the READ.ME file from the code fir proer instructions 
 
