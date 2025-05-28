@@ -32,7 +32,7 @@ Clone the Project: Clone the repository or download the project files into the h
 git clone <repository-url> C:/xampp/htdocs/BookForMe
 Start XAMPP Services: Open the XAMPP Control Panel and start the Apache and MySQL services.
 
-Database Setup:
+# Database Setup:
 
 Open phpMyAdmin by navigating to http://localhost/phpmyadmin.
 Create a new database called hotel_management.
@@ -50,12 +50,13 @@ Access the Website:
 Open your web browser and go to http://localhost/BookForMe to access the application.
 Usage
 
-For Guests:
+# For Guests:
 
 Visit the home page and register/log in to your account.
 Search for available rooms and make a booking.
 View your booking history and manage your check-ins/check-outs.
-For Admins:
+
+# For Admins:
 
 Log in using your admin credentials.
 Add, update, and manage hotel rooms and their availability.
