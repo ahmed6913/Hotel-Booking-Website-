@@ -48,7 +48,6 @@ $dbname = "BookForMe_management";
 Access the Website:
 
 Open your web browser and go to http://localhost/BookForMe to access the application.
-Usage
 
 # For Guests:
 
