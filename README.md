@@ -1,27 +1,25 @@
-# Hotelbookingwebsite
-
-Access the READ.ME file 
+# Hotel booking website 
 
 # Features
 
-User and Admin Login Authentication**: Secure login system for both guests and administrators.
-Room Check-in: Guests can register and check-in to available rooms via a user-friendly registration form.
-Customer Records: The system keeps detailed records of all customer bookings and interactions.
-Room Availability: Real-time updates on the availability or non-availability of rooms.
-Check-in/Check-out Management: Easily track customer check-ins and check-outs.
-Room Booking Status: View and manage the status of booked and unbooked rooms.
-Room Maintenance: Hotel managers can update the maintenance status of rooms.
-Contact and Feedback Section: Guests can reach out to the hotel management or provide feedback through a dedicated contact interface.
+- User and Admin Login Authentication**: Secure login system for both guests and administrators.
+- Room Check-in: Guests can register and check-in to available rooms via a user-friendly registration form.
+- Customer Records: The system keeps detailed records of all customer bookings and interactions.
+- Room Availability: Real-time updates on the availability or non-availability of rooms.
+- Check-in/Check-out Management: Easily track customer check-ins and check-outs.
+- Room Booking Status: View and manage the status of booked and unbooked rooms.
+- Room Maintenance: Hotel managers can update the maintenance status of rooms.
+- Contact and Feedback Section: Guests can reach out to the hotel management or provide feedback through a dedicated contact interface.
 
 # Technologies Used
 
-HTML : For structuring the web pages.
-CSS : For styling the user interface and enhancing the visual appeal.
-PHP : For backend logic, handling form submissions, and server-side processing.
-MySQL : Database to store customer records, room data, and booking information.
-XAMPP : Local server environment used for development (Apache server, MySQL).
-Visual Code : Code editor used for developing the website.
-Setup and Installation Instructions
+- HTML : For structuring the web pages.
+- CSS : For styling the user interface and enhancing the visual appeal.
+- PHP : For backend logic, handling form submissions, and server-side processing.
+- MySQL : Database to store customer records, room data, and booking information.
+- XAMPP : Local server environment used for development (Apache server, MySQL).
+- Visual Code : Code editor used for developing the website.
+- Setup and Installation Instructions
 
 Follow these steps to set up the BookForMe Management System on your local machine:
 
@@ -30,6 +28,7 @@ Install XAMPP: Download and install XAMPP on your machine.
 Clone the Project: Clone the repository or download the project files into the htdocs directory inside the XAMPP installation folder.
 
 git clone <repository-url> C:/xampp/htdocs/BookForMe
+
 Start XAMPP Services: Open the XAMPP Control Panel and start the Apache and MySQL services.
 
 # Database Setup:
