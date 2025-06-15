@@ -21,7 +21,7 @@
 - Visual Code : Code editor used for developing the website.
 - Setup and Installation Instructions
 
-Follow these steps to set up the BookForMe Management System on your local machine:
+## Follow these steps to set up the BookForMe Management System on your local machine:
 
 Install XAMPP: Download and install XAMPP on your machine.
 
