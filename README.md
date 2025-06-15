@@ -2,7 +2,7 @@
 
 # Features
 
-- User and Admin Login Authentication**: Secure login system for both guests and administrators.
+- User and Admin Login Authentication Secure login system for both guests and administrators.
 - Room Check-in: Guests can register and check-in to available rooms via a user-friendly registration form.
 - Customer Records: The system keeps detailed records of all customer bookings and interactions.
 - Room Availability: Real-time updates on the availability or non-availability of rooms.
@@ -31,7 +31,7 @@ git clone <repository-url> C:/xampp/htdocs/BookForMe
 
 Start XAMPP Services: Open the XAMPP Control Panel and start the Apache and MySQL services.
 
-# Database Setup:
+## Database Setup:
 
 Open phpMyAdmin by navigating to http://localhost/phpmyadmin.
 Create a new database called hotel_management.
@@ -62,4 +62,4 @@ View all customer bookings and manage check-in/check-out statuses.
 Ensure room maintenance and availability are up-to-date.
 Contact
 
-# For any queries or issues, please reach out via the contact form on the website, or email us at: support@bookforme.com.
+### For any queries or issues, please reach out via the contact form on the website, or email us at: support@bookforme.com.
