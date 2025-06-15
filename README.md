@@ -1,4 +1,4 @@
-# Hotel booking website 
+# Hotel Booking Website 
 
 # Features
 
