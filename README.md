@@ -23,20 +23,20 @@
 
 ## Follow these steps to set up the BookForMe Management System on your local machine:
 
-Install XAMPP: Download and install XAMPP on your machine.
+1. Install XAMPP: Download and install XAMPP on your machine.
 
-Clone the Project: Clone the repository or download the project files into the htdocs directory inside the XAMPP installation folder.
+2. Clone the Project: Clone the repository or download the project files into the htdocs directory inside the XAMPP installation folder.
 
-git clone <repository-url> C:/xampp/htdocs/BookForMe
+3. git clone <repository-url> C:/xampp/htdocs/BookForMe
 
-Start XAMPP Services: Open the XAMPP Control Panel and start the Apache and MySQL services.
+4. Start XAMPP Services: Open the XAMPP Control Panel and start the Apache and MySQL services.
 
 ## Database Setup:
 
-Open phpMyAdmin by navigating to http://localhost/phpmyadmin.
-Create a new database called hotel_management.
-Import the provided SQL file (hotel_management.sql) into the newly created database.
-Configure Database Connection:
+1. Open phpMyAdmin by navigating to http://localhost/phpmyadmin.
+2. Create a new database called hotel_management.
+3. Import the provided SQL file (hotel_management.sql) into the newly created database.
+4. Configure Database Connection:
 
 Open the config.php file in the project folder.
 Modify the database connection parameters to match local setup:
