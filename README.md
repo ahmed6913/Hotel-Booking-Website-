@@ -15,6 +15,7 @@
 
 - HTML : For structuring the web pages.
 - CSS : For styling the user interface and enhancing the visual appeal.
+- JavaScript : For frontend logic.
 - PHP : For backend logic, handling form submissions, and server-side processing.
 - MySQL : Database to store customer records, room data, and booking information.
 - XAMPP : Local server environment used for development (Apache server, MySQL).
